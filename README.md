@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh-69&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh-69" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyansh-69" alt="priyansh-69" /></a> </p>
+<img align="right" width="400px" height="400" src="GIF-2024-02-12-18-17-35.gif">
 
 - 🔭 I’m currently working on **MERN Stack**
 
