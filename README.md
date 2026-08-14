@@ -1,32 +1,96 @@
-<h1 align="center">Hello GitHub Family 👋, I'm Priyansh Kandwal</h1>
-<h3 align="center">A passionate Computer Science UnderGrad from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Priyansh+Kandwal+👋;Software+Development+Engineer;Full+Stack+%26+AI+Enthusiast;Building+Scalable+Systems+%26+AI+Middleware" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh-69&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh-69" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyansh-69" alt="priyansh-69" /></a> </p>
-<img align="right" width="400px" height="400" src="GIF-2024-02-12-18-17-35.gif">
-
-- 🔭 I’m currently working on **MERN Stack**
-
-- 🌱 I’m currently learning **MERN**
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **priyanshworks21@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/priyansh-kandwal69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyansh-kandwal69" height="30" width="40" /></a>
-<a href="https://instagram.com/i.am.priyansh_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.am.priyansh_k" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/priyansh_kandwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyansh_kandwal" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/priyansh-kandwal69"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.leetcode.com/priyansh_kandwal"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://instagram.com/i.am.priyansh_k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansh-69&show_icons=true&locale=en&layout=compact" alt="priyansh-69" /></p>
+<div align="center">
+  <img align="right" width="300" src="https://raw.githubusercontent.com/priyansh-69/priyansh-69/main/GIF-2024-02-12-18-17-35.gif" alt="Coding GIF">
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyansh-69&show_icons=true&locale=en" alt="priyansh-69" /></p>
+### ✨ Get to know me! (Click to expand)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh-69&" alt="priyansh-69" /></p>
+<details>
+  <summary><b>👨‍💻 Background & Education</b></summary>
+  <br>
+  <ul>
+    <li>🎓 B.Tech. in Computer Science (AI/ML) at <b>Polaris School of Technology / Starex University</b> (8.91 CGPA).</li>
+    <li>🏆 Ranked in the top 8% among 10,000+ participants in GeeksforGeeks Weekly Contests.</li>
+  </ul>
+</details>
 
+<details>
+  <summary><b>💼 Professional Experience</b></summary>
+  <br>
+  <ul>
+    <li>🚀 <b>Full Stack Developer Intern @ hrGenie & Anyday Job</b> | Architected scalable data-fetching layers with React Query.</li>
+    <li>🛠️ <b>Web Developer @ BitHive Technologies</b> | Built responsive, component-based interfaces and managed client sprints.</li>
+    <li>🌍 <b>Localization Engineer Intern @ Andovar</b> | Streamlined data processing with Python automation scripts.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>⚡ Current Focus</b></summary>
+  <br>
+  <ul>
+    <li>🧠 Building autonomous workflows merging full-stack architecture with <b>Generative AI</b> (Gemini API, ChromaDB).</li>
+    <li>🎯 Actively seeking <b>SDE and AI roles</b> to translate complex problems into scalable solutions.</li>
+    <li>📫 Reach me at: <b>priyanshworks21@gmail.com</b></li>
+  </ul>
+</details>
+
+<br>
+
+---
+
+<h3 align="center">🛠️ Tech Arsenal</h3>
+
+<p align="center">
+  <!-- Skillicons automatically generates beautiful, uniform icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs,express,fastapi,mongodb,mysql,postgres,docker,vite,tailwind,git&perline=8" alt="Tech Stack Grid" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🚀 Featured Architectures</h3>
+
+<!-- GitHub Readme Stats can generate live project cards for your repos. 
+     Just make sure the "repo=" matches your actual repository names! -->
+<div align="center">
+  <a href="https://github.com/priyansh-69/SRE-Watchdog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyansh-69&repo=SRE-Watchdog&theme=tokyonight&hide_border=true" width="48%">
+  </a>
+  <a href="https://github.com/priyansh-69/CareerX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyansh-69&repo=CareerX&theme=tokyonight&hide_border=true" width="48%">
+  </a>
+</div>
+
+---
+
+<h3 align="center">🔥 GitHub Activity & Analytics</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyansh-69&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh-69&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</div>
+
+<p align="center">
+  <!-- Interactive Trophy Board -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=priyansh-69&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>
+
+<!-- Optional: The GitHub Snake Game Animation! -->
+<!-- To make this snake work, you will need to set up a GitHub Action in your profile repo. -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/priyansh-69/priyansh-69/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
