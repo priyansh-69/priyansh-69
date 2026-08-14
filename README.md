@@ -65,7 +65,7 @@
 <!-- GitHub Readme Stats can generate live project cards for your repos. 
      Just make sure the "repo=" matches your actual repository names! -->
 <div align="center">
-  <a href="https://github.com/priyansh-69/SRE-Watchdog">
+  <a href="[https://github.com/priyansh-69/SRE-Watchdog](https://github.com/priyansh-69/sre-watchdog)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyansh-69&repo=SRE-Watchdog&theme=tokyonight&hide_border=true" width="48%">
   </a>
   <a href="https://github.com/priyansh-69/CareerX">
