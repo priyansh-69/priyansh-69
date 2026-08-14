@@ -65,7 +65,7 @@
 <!-- GitHub Readme Stats can generate live project cards for your repos. 
      Just make sure the "repo=" matches your actual repository names! -->
 <div align="center">
-  <a href="[https://github.com/priyansh-69/SRE-Watchdog](https://github.com/priyansh-69/sre-watchdog)">
+  <a href="https://github.com/priyansh-69/SRE-Watchdog">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyansh-69&repo=SRE-Watchdog&theme=tokyonight&hide_border=true" width="48%">
   </a>
   <a href="https://github.com/priyansh-69/CareerX">
@@ -77,20 +77,17 @@
 
 <h3 align="center">🔥 GitHub Activity & Analytics</h3>
 
+<!-- Reorganized into a clean 2x2 grid prioritizing the Streak Counter and Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyansh-69&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh-69&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansh-69&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
 </div>
 
-<p align="center">
-  <!-- Interactive Trophy Board -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyansh-69&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
+<br>
 
-<!-- Optional: The GitHub Snake Game Animation! -->
-<!-- To make this snake work, you will need to set up a GitHub Action in your profile repo. -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/priyansh-69/priyansh-69/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyansh-69&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=priyansh-69&theme=onedark&no-frame=true&margin-w=15" width="48%" alt="Trophies" />
+  </a>
 </div>
