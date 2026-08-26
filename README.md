@@ -7,8 +7,49 @@
 
 <br/><br/>
 
-<!-- Technical Arsenal -->
-<h3>⚡ Technical Arsenal</h3>
+<!-- Connect Links & Status -->
+<a href="https://linkedin.com/in/priyansh-kandwal69"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:priyanshworks21@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+&nbsp;
+<a href="https://www.leetcode.com/priyansh_kandwal"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+&nbsp;
+<a href="https://instagram.com/i.am.priyansh_k"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATIONS_%26_ROLES-238636?style=flat-square&logo=githubsponsors&logoColor=white" alt="Status" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=priyansh-69&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br/><br/>
+
+<!-- Self-Hosted Statistics -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub Telemetry & Stats">
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+### 🚀 Overview & Focus
+
+- 🔭 **Architecting**: Distributed systems, full-stack web applications, and observability pipelines.
+- 🛠️ **Open Source**: Contributor to **[opensre](https://github.com/Tracer-Cloud/opensre)** (AI SRE diagnostic toolkit) and author of **[sre-watchdog](https://github.com/priyansh-69/sre-watchdog)**.
+- 💬 **Core Interests**: Backend security (RBAC/JWT), microservices, high-throughput APIs, and data structures in Java.
+
+<br/>
+
+---
+
+### ⚡ Technical Stack
+
+<div align="center">
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,cpp,js,react,nextjs,nodejs,postgres,aws,docker,mongodb,linux,git,github,vscode&perline=14" alt="Technical Arsenal" />
@@ -16,7 +57,6 @@
 
 <br/><br/>
 
-<!-- Specialized Framework Badges -->
 <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 &nbsp;
 <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
@@ -29,51 +69,27 @@
 &nbsp;
 <img src="https://img.shields.io/badge/SRE_TELEMETRY-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="SRE Telemetry" />
 
-<br/><br/>
-
-<!-- Connect with Me -->
-<h3>🤝 Connect with Me</h3>
-
-<a href="https://linkedin.com/in/priyansh-kandwal69"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&nbsp;
-<a href="mailto:priyanshworks21@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-&nbsp;
-<a href="https://www.leetcode.com/priyansh_kandwal"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-&nbsp;
-<a href="https://instagram.com/i.am.priyansh_k"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATIONS_%26_ROLES-238636?style=flat-square&logo=githubsponsors&logoColor=white" alt="Status" />
-
-<br/><br/>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyansh-69" alt="priyansh-69" /></a> </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=priyansh-69&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh-69" /> </p>
-
 </div>
 
 <br/>
 
-- 🔭 I’m currently working on **MERN Stack & SRE**
+---
 
-- 🌱 I’m currently learning **Distributed Systems & Backend Security**
+### 📂 Featured Projects
 
-- 🛠️ Active Open-Source Contributor at **[opensre](https://github.com/Tracer-Cloud/opensre)**
-
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Java DSA**
-
-- 📫 How to reach me **priyanshworks21@gmail.com**
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[opensre](https://github.com/Tracer-Cloud/opensre)** | Open-source Site Reliability Engineering toolsuite & AI incident diagnostics. | `Python` `SRE` `Telemetry` |
+| **[sre-watchdog](https://github.com/priyansh-69/sre-watchdog)** | Proactive uptime sentinel & health telemetry monitor for distributed nodes. | `Python` `Observability` `Uptime` |
+| **[RBAC-otp-backend-e2e](https://github.com/priyansh-69/RBAC-otp-backend-e2e)** | Role-based access control authentication microservice with JWT & OTP verification. | `Node.js` `Express` `Security` |
+| **[forge-app](https://github.com/priyansh-69/forge-app)** | Modern full-stack application workspace with modular component architecture. | `React` `TypeScript` `Tailwind` |
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansh-69&show_icons=true&locale=en&layout=compact" alt="priyansh-69" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=priyansh-69&show_icons=true&locale=en" alt="priyansh-69" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh-69&" alt="priyansh-69" />
-</p>
+<div align="center">
+  <sub>
+    Designed with precision · <b>Priyansh Kandwal</b> · <a href="https://github.com/priyansh-69?tab=repositories">Explore all 28 repositories ↗</a>
+  </sub>
+</div>
