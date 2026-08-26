@@ -48,15 +48,6 @@
 
 <br/><br/>
 
-<!-- Self-Hosted GitHub Statistics -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="480" alt="Self-Hosted GitHub Stats">
-</picture>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=priyansh-69&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
@@ -65,102 +56,30 @@
 
 ---
 
-### `~/` whoami
-
-- 🚀 **Focus**: Full-Stack Architecture, Site Reliability Engineering, and Distributed Systems.
-- 🛠️ **Active Work**: Contributing to open-source diagnostics at **[opensre](https://github.com/Tracer-Cloud/opensre)** and building health sentinels like **[sre-watchdog](https://github.com/priyansh-69/sre-watchdog)**.
-- ⚡ **Core Arsenal**: Node.js, Express, TypeScript, React, MongoDB, Redis, Docker, and algorithms in Java.
-
-<br/>
-
----
-
-### `~/` featured projects
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Tracer-Cloud/opensre">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/card-opensre-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/card-opensre-light.svg">
-          <img src="assets/card-opensre-dark.svg" width="400" alt="opensre">
-        </picture>
-      </a>
-      <br/>
-      <sub><code>SRE</code> · <code>Telemetry</code> · <code>Python</code> · <code>Diagnostics</code></sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/priyansh-69/sre-watchdog">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/card-sre-watchdog-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/card-sre-watchdog-light.svg">
-          <img src="assets/card-sre-watchdog-dark.svg" width="400" alt="sre-watchdog">
-        </picture>
-      </a>
-      <br/>
-      <sub><code>Health Sentinel</code> · <code>Uptime</code> · <code>Python</code> · <code>Observability</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/priyansh-69/RBAC-otp-backend-e2e">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/card-RBAC-otp-backend-e2e-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/card-RBAC-otp-backend-e2e-light.svg">
-          <img src="assets/card-RBAC-otp-backend-e2e-dark.svg" width="400" alt="RBAC-otp-backend-e2e">
-        </picture>
-      </a>
-      <br/>
-      <sub><code>Auth Microservice</code> · <code>RBAC</code> · <code>JWT & OTP</code> · <code>Node/Express</code></sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/priyansh-69/forge-app">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/card-forge-app-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/card-forge-app-light.svg">
-          <img src="assets/card-forge-app-dark.svg" width="400" alt="forge-app">
-        </picture>
-      </a>
-      <br/>
-      <sub><code>Full-Stack App</code> · <code>React</code> · <code>TypeScript</code> · <code>Modular UI</code></sub>
-    </td>
-  </tr>
-</table>
+- 🔭 I’m currently working on **Full-Stack Architecture & SRE Systems**
+- 🌱 I’m currently learning **Distributed Systems, Performance Telemetry & Cloud Security**
+- 🛠️ Active Open-Source Contributor at **[opensre](https://github.com/Tracer-Cloud/opensre)**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, TypeScript & Java DSA**
+- 📫 How to reach me: **priyanshworks21@gmail.com**
 
 <br/>
 
 ---
 
-### `~/` skill & language telemetry
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansh-69&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=priyansh-69&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <b>Skill Distribution (Self-Assessed)</b><br/><br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-        <img src="assets/radar-dark.svg" width="380" alt="Skill Radar">
-      </picture>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <b>Repository Byte Count (Live GitHub API)</b><br/><br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-        <img src="assets/radar-langs-dark.svg" width="380" alt="Language Radar">
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyansh-69&theme=flat&no-frame=true&margin-w=4" alt="GitHub Trophies" /></a>
+</p>
 
 <br/>
-
----
 
 <div align="center">
   <sub>
-    Designed with precision · Rebuilt daily via GitHub Actions · <b>Priyansh Kandwal</b>
+    Designed with precision · <b>Priyansh Kandwal</b>
   </sub>
 </div>
