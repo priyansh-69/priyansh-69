@@ -1,0 +1,6 @@
+.DS_Store
+*.jpg
+*.png
+*.webp
+!assets/*.svg
+github.md

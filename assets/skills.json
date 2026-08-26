@@ -1,0 +1,12 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    { "label": "SRE & Monitoring", "value": 88 },
+    { "label": "Node / Express APIs", "value": 90 },
+    { "label": "Auth & RBAC", "value": 86 },
+    { "label": "React & Modern UI", "value": 85 },
+    { "label": "Databases & Storage", "value": 80 },
+    { "label": "TypeScript / JS", "value": 85 },
+    { "label": "Java & DSA", "value": 78 }
+  ]
+}

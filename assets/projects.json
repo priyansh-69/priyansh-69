@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "opensre",
+      "description": "Open-source Site Reliability Engineering toolsuite for automated telemetry, diagnostics, and incident triaging."
+    },
+    {
+      "repo": "sre-watchdog",
+      "description": "Proactive uptime monitor and sentinel analyzing system latency, health telemetry, and service anomalies."
+    },
+    {
+      "repo": "RBAC-otp-backend-e2e",
+      "description": "Robust authentication microservice featuring granular role-based access control, OTP verification, and E2E security."
+    },
+    {
+      "repo": "forge-app",
+      "description": "Full-stack application workspace engineered with modern React UI, modular APIs, and scalable architecture."
+    }
+  ]
+}
