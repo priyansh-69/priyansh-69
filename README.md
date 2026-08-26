@@ -2,7 +2,7 @@
 
 <!-- Typing Headline -->
 <a href="https://github.com/priyansh-69">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Priyansh+Kandwal;Full-Stack+Architect+%26+SRE;Building+Reliable+Distributed+Systems;Open+Source+Contributor;01100011+01101111+01100100+01100101" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=580&lines=Priyansh+Kandwal;Full-Stack+Architect+%26+SRE;Distributed+Systems+%26+Cloud;Open+Source+Contributor;01100011+01101111+01100100+01100101" alt="Typing Banner" />
 </a>
 
 <br/><br/>
@@ -52,7 +52,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="500" alt="Self-Hosted GitHub Stats">
+  <img src="assets/card-stats-dark.svg" width="480" alt="Self-Hosted GitHub Stats">
 </picture>
 
 <br/><br/>
@@ -67,23 +67,9 @@
 
 ### `~/` whoami
 
-```console
-$ cat sys_info.json
-```
-
-```json
-{
-  "developer": "Priyansh Kandwal",
-  "status": "CS Undergrad & Full-Stack / SRE Engineer",
-  "focus": ["Distributed Systems", "Incident Telemetry", "Backend Security", "Modern React UIs"],
-  "active_projects": {
-    "opensre": "Open-source Site Reliability Engineering toolsuite & diagnostics",
-    "sre-watchdog": "Proactive service health-check sentinel & anomaly monitor"
-  },
-  "uptime": "99.99%",
-  "philosophy": "Self-hosted, deterministic, and resilient by design."
-}
-```
+- 🚀 **Focus**: Full-Stack Architecture, Site Reliability Engineering, and Distributed Systems.
+- 🛠️ **Active Work**: Contributing to open-source diagnostics at **[opensre](https://github.com/Tracer-Cloud/opensre)** and building health sentinels like **[sre-watchdog](https://github.com/priyansh-69/sre-watchdog)**.
+- ⚡ **Core Arsenal**: Node.js, Express, TypeScript, React, MongoDB, Redis, Docker, and algorithms in Java.
 
 <br/>
 
@@ -98,7 +84,7 @@ $ cat sys_info.json
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/card-opensre-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="assets/card-opensre-light.svg">
-          <img src="assets/card-opensre-dark.svg" width="410" alt="opensre">
+          <img src="assets/card-opensre-dark.svg" width="400" alt="opensre">
         </picture>
       </a>
       <br/>
@@ -109,7 +95,7 @@ $ cat sys_info.json
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/card-sre-watchdog-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="assets/card-sre-watchdog-light.svg">
-          <img src="assets/card-sre-watchdog-dark.svg" width="410" alt="sre-watchdog">
+          <img src="assets/card-sre-watchdog-dark.svg" width="400" alt="sre-watchdog">
         </picture>
       </a>
       <br/>
@@ -122,7 +108,7 @@ $ cat sys_info.json
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/card-RBAC-otp-backend-e2e-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="assets/card-RBAC-otp-backend-e2e-light.svg">
-          <img src="assets/card-RBAC-otp-backend-e2e-dark.svg" width="410" alt="RBAC-otp-backend-e2e">
+          <img src="assets/card-RBAC-otp-backend-e2e-dark.svg" width="400" alt="RBAC-otp-backend-e2e">
         </picture>
       </a>
       <br/>
@@ -133,7 +119,7 @@ $ cat sys_info.json
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/card-forge-app-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="assets/card-forge-app-light.svg">
-          <img src="assets/card-forge-app-dark.svg" width="410" alt="forge-app">
+          <img src="assets/card-forge-app-dark.svg" width="400" alt="forge-app">
         </picture>
       </a>
       <br/>
@@ -141,19 +127,6 @@ $ cat sys_info.json
     </td>
   </tr>
 </table>
- 
-<div align="center">
-  <sub>
-    <b>[opensre]</b> SRE Diagnostic Toolsuite ·
-    <b>[sre-watchdog]</b> Health Sentinel & Uptime Monitor ·
-    <b>[RBAC-otp-backend-e2e]</b> Granular Auth Microservice ·
-    <b>[forge-app]</b> Full-Stack Workspace Platform
-  </sub>
-  <br/>
-  <sub>
-    <a href="https://github.com/priyansh-69?tab=repositories">Explore full catalog on GitHub ↗</a>
-  </sub>
-</div>
 
 <br/>
 
@@ -181,60 +154,6 @@ $ cat sys_info.json
     </td>
   </tr>
 </table>
-
-<br/>
-
----
-
-### `~/` contribution streak
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=priyansh-69&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=priyansh-69&theme=default&background=FFFFFF&border=D0D7DE&stroke=0969DA&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&currStreakNum=1F2328&sideNums=1F2328&sideLabels=57606A&dates=57606A">
-    <img src="https://streak-stats.demolab.com/?user=priyansh-69&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" width="500" alt="Live Streak Meter" />
-  </picture>
-</div>
-
-<br/>
-
----
-
-### `~/` activity graph & telemetry
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=priyansh-69&theme=github-compact&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&bg_color=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=priyansh-69&theme=github-compact&color=0969DA&line=0969DA&point=1F2328&area=true&hide_border=true&bg_color=FFFFFF">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansh-69&theme=github-compact&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Activity Graph" />
-  </picture>
-</div>
-
-<br/>
-
----
-
-### `~/` contribution snake & isometric year
-
-<div align="center">
-
-  <!-- Snake Game Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyansh-69/priyansh-69/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyansh-69/priyansh-69/output/snake-light.svg">
-    <img src="https://raw.githubusercontent.com/priyansh-69/priyansh-69/output/snake-dark.svg" width="100%" alt="Snake Animation" />
-  </picture>
-
-  <br/><br/>
-
-  <!-- 3D Isometric Calendar -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.plugin.isocalendar.fullyear.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/metrics.plugin.isocalendar.fullyear.svg">
-    <img src="assets/metrics.plugin.isocalendar.fullyear.svg" width="100%" alt="3D Isometric Activity" />
-  </picture>
-
-</div>
 
 <br/>
 
