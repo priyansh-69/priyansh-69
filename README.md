@@ -48,38 +48,32 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=priyansh-69&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyansh-69" alt="priyansh-69" /></a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=priyansh-69&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh-69" /> </p>
 
 </div>
 
 <br/>
 
----
+- 🔭 I’m currently working on **MERN Stack & SRE**
 
-- 🔭 I’m currently working on **Full-Stack Architecture & SRE Systems**
-- 🌱 I’m currently learning **Distributed Systems, Performance Telemetry & Cloud Security**
+- 🌱 I’m currently learning **Distributed Systems & Backend Security**
+
 - 🛠️ Active Open-Source Contributor at **[opensre](https://github.com/Tracer-Cloud/opensre)**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, TypeScript & Java DSA**
-- 📫 How to reach me: **priyanshworks21@gmail.com**
+
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Java DSA**
+
+- 📫 How to reach me **priyanshworks21@gmail.com**
 
 <br/>
 
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansh-69&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansh-69&show_icons=true&locale=en&layout=compact" alt="priyansh-69" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=priyansh-69&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyansh-69&show_icons=true&locale=en" alt="priyansh-69" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyansh-69&theme=flat&no-frame=true&margin-w=4" alt="GitHub Trophies" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh-69&" alt="priyansh-69" />
 </p>
-
-<br/>
-
-<div align="center">
-  <sub>
-    Designed with precision · <b>Priyansh Kandwal</b>
-  </sub>
-</div>

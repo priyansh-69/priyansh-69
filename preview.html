@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Priyansh Kandwal · GitHub Profile</title>
+  <title>Priyansh Kandwal · GitHub Profile Preview</title>
   <style>
     :root { color-scheme: dark; }
     body {
@@ -12,114 +12,70 @@
       margin: 0;
       padding: 40px 20px;
     }
-    .container { max-width: 860px; margin: 0 auto; }
-    .header-box { text-align: center; margin-bottom: 24px; }
-    h2 {
-      font-size: 14px;
-      text-transform: uppercase;
-      letter-spacing: .08em;
-      color: #58a6ff;
-      border-bottom: 1px solid #21262d;
-      padding-bottom: 8px;
-      margin: 32px 0 16px;
-    }
-    .row { display: flex; gap: 20px; flex-wrap: wrap; align-items: stretch; }
-    .card {
-      background: #0d1117;
-      border: 1px solid #30363d;
-      border-radius: 10px;
-      padding: 20px;
-      flex: 1;
-      min-width: 300px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      box-sizing: border-box;
-    }
-    img { display: block; max-width: 100%; height: auto; }
+    .container { max-width: 860px; margin: 0 auto; text-align: center; }
+    h3 { color: #58a6ff; font-size: 16px; margin: 20px 0 10px; }
+    img { display: inline-block; max-width: 100%; height: auto; }
     .badge-row { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; margin: 10px 0; }
-    .grid-2x2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; width: 100%; }
-    .project-cell { text-align: center; }
-    .project-cell code {
-      font-size: 11px;
-      background: #161b22;
-      padding: 2px 6px;
-      border-radius: 4px;
-      color: #58a6ff;
-    }
+    .bio-list { text-align: left; max-width: 600px; margin: 24px auto; font-size: 15px; line-height: 1.8; }
+    .bio-list a { color: #58a6ff; text-decoration: none; }
   </style>
 </head>
 <body>
   <div class="container">
-    <div class="header-box">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=580&lines=Priyansh+Kandwal;Full-Stack+Architect+%26+SRE;Distributed+Systems+%26+Cloud;Open+Source+Contributor;01100011+01101111+01100100+01100101" alt="Typing Banner" style="margin: 0 auto;">
-    </div>
+    <!-- Typing Headline -->
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=580&lines=Priyansh+Kandwal;Full-Stack+Architect+%26+SRE;Distributed+Systems+%26+Cloud;Open+Source+Contributor;01100011+01101111+01100100+01100101" alt="Typing Banner">
+
+    <br><br>
 
     <!-- Technical Arsenal -->
-    <h2>Technical Arsenal</h2>
-    <div class="card" style="width: 100%;">
-      <img src="https://skillicons.dev/icons?i=py,cpp,js,react,nextjs,nodejs,postgres,aws,docker,mongodb,linux,git,github,vscode&perline=14" alt="Arsenal">
-      <div class="badge-row" style="margin-top: 16px;">
-        <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-        <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-        <img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
-        <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-        <img src="https://img.shields.io/badge/RBAC_AUTH-9333EA?style=for-the-badge&logo=auth0&logoColor=white" alt="RBAC">
-        <img src="https://img.shields.io/badge/SRE_TELEMETRY-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="SRE">
-      </div>
+    <h3>⚡ Technical Arsenal</h3>
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,react,nextjs,nodejs,postgres,aws,docker,mongodb,linux,git,github,vscode&perline=14" alt="Arsenal">
+    <div class="badge-row" style="margin-top: 14px;">
+      <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+      <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+      <img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
+      <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/RBAC_AUTH-9333EA?style=for-the-badge&logo=auth0&logoColor=white" alt="RBAC">
+      <img src="https://img.shields.io/badge/SRE_TELEMETRY-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="SRE">
     </div>
+
+    <br>
 
     <!-- Connect with Me -->
-    <h2>Connect with Me</h2>
-    <div class="card" style="width: 100%;">
-      <div class="badge-row">
-        <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-        <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-        <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-      </div>
-      <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATIONS_%26_ROLES-238636?style=flat-square&logo=githubsponsors&logoColor=white" alt="Status" style="margin-top: 10px;">
+    <h3>🤝 Connect with Me</h3>
+    <div class="badge-row">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+      <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </div>
+    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATIONS_%26_ROLES-238636?style=flat-square&logo=githubsponsors&logoColor=white" alt="Status" style="margin-top: 10px;">
+
+    <br><br>
+
+    <img src="https://komarev.com/ghpvc/?username=priyansh-69&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
+
+    <hr style="border: 0; border-top: 1px solid #21262d; margin: 30px 0;">
+
+    <div class="bio-list">
+      <p>🔭 I’m currently working on <b>Full-Stack Architecture & SRE Systems</b></p>
+      <p>🌱 I’m currently learning <b>Distributed Systems, Performance Telemetry & Cloud Security</b></p>
+      <p>🛠️ Active Open-Source Contributor at <a href="https://github.com/Tracer-Cloud/opensre"><b>opensre</b></a></p>
+      <p>💬 Ask me about <b>React, Node.js, Express, MongoDB, TypeScript & Java DSA</b></p>
+      <p>📫 How to reach me: <b>priyanshworks21@gmail.com</b></p>
     </div>
 
-    <!-- Self-Hosted Stats -->
-    <h2>GitHub Telemetry</h2>
-    <div class="card" style="width: 100%;">
-      <img src="assets/card-stats-dark.svg" alt="Stats Dark" style="width: 480px;">
+    <hr style="border: 0; border-top: 1px solid #21262d; margin: 30px 0;">
+
+    <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansh-69&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api?username=priyansh-69&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GitHub Stats">
     </div>
 
-    <!-- Featured Projects -->
-    <h2>Featured Projects</h2>
-    <div class="card" style="width: 100%;">
-      <div class="grid-2x2">
-        <div class="project-cell">
-          <img src="assets/card-opensre-dark.svg" alt="opensre">
-          <p><code>SRE</code> · <code>Telemetry</code> · <code>Python</code> · <code>Diagnostics</code></p>
-        </div>
-        <div class="project-cell">
-          <img src="assets/card-sre-watchdog-dark.svg" alt="sre-watchdog">
-          <p><code>Health Sentinel</code> · <code>Uptime</code> · <code>Python</code> · <code>Observability</code></p>
-        </div>
-        <div class="project-cell">
-          <img src="assets/card-RBAC-otp-backend-e2e-dark.svg" alt="RBAC">
-          <p><code>Auth Microservice</code> · <code>RBAC</code> · <code>JWT & OTP</code> · <code>Node/Express</code></p>
-        </div>
-        <div class="project-cell">
-          <img src="assets/card-forge-app-dark.svg" alt="forge-app">
-          <p><code>Full-Stack App</code> · <code>React</code> · <code>TypeScript</code> · <code>Modular UI</code></p>
-        </div>
-      </div>
-    </div>
+    <br>
 
-    <!-- Dual Telemetry Radars -->
-    <h2>Telemetry Radars</h2>
-    <div class="row">
-      <div class="card">
-        <img src="assets/radar-dark.svg" alt="Skill Radar">
-      </div>
-      <div class="card">
-        <img src="assets/radar-langs-dark.svg" alt="Language Radar">
-      </div>
+    <div>
+      <img src="https://github-profile-trophy.vercel.app/?username=priyansh-69&theme=flat&no-frame=true&margin-w=4" alt="GitHub Trophies">
     </div>
   </div>
 </body>
