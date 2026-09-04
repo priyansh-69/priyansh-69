@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Headline -->
-<a href="https://github.com/priyansh-69">
+<a href="">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=580&lines=Priyansh+Kandwal;Full-Stack+Architect+%26+SRE;Distributed+Systems+%26+Cloud;Open+Source+Contributor;01100011+01101111+01100100+01100101" alt="Typing Banner" />
 </a>
 
